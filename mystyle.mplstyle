@@ -1,0 +1,4 @@
+axes.titlesize : 20
+axes.labelsize : 16
+lines.linewidth : 5
+lines.color : cyan
